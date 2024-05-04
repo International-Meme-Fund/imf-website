@@ -1,0 +1,220 @@
+#-------------------------------
+# Site Settings
+title: IMF
+description: International Meme Fund is the dankest meme lending protocol on Ethereum
+logo: # Eg. "/images/logo.svg".
+logo_dark:
+logo_footer: /images/memefund.png
+color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
+
+
+#-------------------------------
+# Navigation Settings
+menu_settings:
+  menu_items:
+    - title: "About"
+      url: "/about/"
+    - title: "Collateral"
+      url: "/collateral/"
+    - title: "Farcaster"
+      exturl: "https://warpcast.com/~/channel/imf"
+    - title: "Charts"
+      submenu:
+      - exturl: "#"
+        title: "$MONEY"
+      - exturl: "#"
+        title: "$IMF"
+    - title: "Twitter"
+      exturl: "https://x.com/intlmemefund"
+
+# Call to action button
+cta_button:
+  enable: true
+  cta_button_link: 'https://app.internationalmeme.fund'
+  cta_button_text: LAUNCH APP
+
+
+#-------------------------------
+# Author Settings
+author:
+  author_name: 'International Meme Fund'
+  author_avatar: "/images/memefund.png"
+
+
+#-------------------------------
+# Hero Settings
+hero:
+  enable: true
+  hero_title: The Dankest Meme Lending Protocol on Ethereum
+  hero_description: The IMF's mission is to promote global memetic growth and MemeFi stability, encourage international meme trade, and increase hysterical laughter. Also, world peace. 
+
+# Hero Logos
+hero_logos:
+  enable: true
+
+hero_logo_image:
+
+  - alt: "Uniswap"
+    image: "/images/uniswap.png"
+
+  - alt: "CoinGecko"
+    image: "/images/coingecko.png"
+  
+  - alt: "Farcaster"
+    image: "/images/farcaster.png"
+
+  - alt: "Pepe"
+    image: "/images/pepe.png"
+
+  - alt: "Mog"
+    image: "/images/mog.png"
+  
+  - alt: "Bitcoin"
+    image: "/images/bitcoin.png"
+    
+  - alt: "Money"
+    image: "/images/money.svg"
+    
+  - alt: "Ethereum"
+    image: "/images/eth.svg"
+
+#-------------------------------
+# Slider Featured Settings
+featured:
+  enable: false
+  featured_title: Featured
+
+
+#-------------------------------
+# Projects Section Settings
+projects:
+  enable: true
+  projects_title: Collateral
+  projects_description:
+
+
+#-------------------------------
+# Testimonials Section Settings
+testimonials:
+  enable: true
+  testimonials_intro: Testimonials
+  testimonials_title: Meme investors say...
+  testimonials_info: Join at least <b>4.20</b> meme investors
+
+testimonial_items:
+  - name: "Clouted"
+    image: "/images/client-1.jpg"
+    designation: "NFT Fuckboy"
+    title: "Memecoin Supercycle"
+    content : "I wrote an article exploring my deep thoughts on the driving forces and impacts of memecoins and I'm DTF so HMU."
+
+  - name: "Nap Enjoyoor"
+    image: "/images/client-2.jpg"
+    designation: "Full Sack Dev"
+    title: "I'm sleepy"
+    content : "This entire experience has been unethical and inhumane. I've done irreperable damage to my cervical spine. My bean bag is empty."
+
+  - name: "Gami"
+    image: "/images/client-3.jpg"
+    designation: "Meme Investor"
+    title: "Memes are money"
+    content : "The hypercycle is upon us and as a very serious, sophisticated and accredited meme investor, I'll be aping my entire net worth."
+
+  - name: "Siderides"
+    image: "/images/client-4.jpg"
+    designation: "MFER"
+    title: "MAYC is down bad"
+    content : "Despite losing it all on a mutant ape I'm just glad I'm not Greg Oakford. He was down bad on moonbirds and now they've revoked CC0."
+    
+  - name: "Anthony Sassano"
+    image: "/images/client-5.jpg"
+    designation: "Ethermeme Maxi"
+    title: "Absolute dogshit"
+    content : "Anthony didn't provide a testimonial. But if he did, he'd likely say something supportive and definitely not opinionated nor skeptical."
+
+
+#-------------------------------
+# Faq (Frequently asked questions) Settings
+faq:
+  enable: true
+  faq_title: Frequently Asked Questions
+  faq_intro: What's it all meme?
+  faq_items:
+    - title: What could possibly go wrong?
+      description: nothing (not financial advice)
+    - title: Are testimonials just by the team?
+      description: yet to be determined
+    - title: Is the IMF protocol safe to use?
+      description: to be confirmed
+
+#-------------------------------
+# Blog Section Settings
+blog:
+  enable: false
+  blog_intro: Latest
+  blog_title: Official IMF blog
+
+
+#-------------------------------
+# Author Section Settings
+author_section:
+  enable: true
+  author_section_title: "You will own memes and you'll be happy"
+  author_section_description: IMF are revolutionising the global economy by bringing fiscal stimulus to meme coins and solving all of the world's problems including a laundry list of geopolitical tensions, climate change and the 3 body problem.
+  author_section_image: "/images/hahaha.png"
+  author_section_image_alt: IMF
+  author_section_button_text: LAUNCH APP
+  author_section_button_link: "https://app.internationalmeme.fund"
+
+
+#-------------------------------
+# Footer Settings
+
+# Footer Navigation
+footer_menu__settings:
+  menu__items:
+    - title: 'About'
+      url: '/about'
+    - title: 'Collateral'
+      url: '/collateral/'
+    - title: 'Farcaster'
+      exturl: 'https://warpcast.com/~/channel/imf'
+
+# Social Links
+social:
+- {icon: "fa-brands fa-github", name: "GitHub", link: "https://github.com/International-Meme-Fund"}
+- {icon: "fa-brands fa-x-twitter", name: "Twitter", link: "https://x.com/intlmemefund"}
+- {icon: "fa-regular fa-envelope", name: "Email", link: "mailto:gm@internationalmeme.fund"}
+
+# Example of adding a new link to the footer - {icon: "fa-brands fa-youtube", name: "Youtube", link: https://youtube.com"}
+# Other icons can be found at https://fontawesome.com/icons
+
+
+#-------------------------------
+# Newsletter Settings
+mailchimp:
+  enable: true
+  mailchimp_title: Subscribe to our newsletter
+  mailchimp_description: This is only for show and you will not get any updates with IMF news or developments
+  mailchimp_identifier: # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+  mailchimp_input_text: Your email address
+
+
+#-------------------------------
+# Contact Settings
+contact:
+  email: gm@internationalmeme.fund # Add your form_id
+  description: # Add a description of your form
+
+# NOTE
+# Gerous theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
+
+
+#-------------------------------
+# Comment Section (Disqus)
+disqus_identifier: # Add your shortname for Disqus Comment. For example anvod-studio-test
+
+
+#-------------------------------
+# Google Analytics
+google_analytics: # Add your GA Tracking Id
