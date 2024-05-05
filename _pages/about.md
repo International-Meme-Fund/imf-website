@@ -3,7 +3,7 @@ layout: page
 title: What is the IMF?
 description: Deposit memecoins to mint up to 50% of LTV as $CMDC stablecoin (Central Meme Digital Currency). Pair $CMDC with a memecoin and provide liquidity to earn the governance token $IMF (International Meme Fund).
 permalink: /about/
-image: '/images/about-imf.png'
+image: '/images/collateral.jpg'
 ---
 
 Millions of degens worldwide have their liquidity locked in memes they love.
