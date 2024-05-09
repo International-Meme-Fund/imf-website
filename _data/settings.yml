@@ -21,7 +21,7 @@ menu_settings:
     - title: "Charts"
       submenu:
       - exturl: "#"
-        title: '<img src="/images/money.svg" width="24px"> CMDC'
+        title: '<img src="/images/money.svg" width="24px"> money'
       - exturl: "#"
         title: '<img src="/images/memefund.png" width="24px"> IMF'
     - title: "Twitter"
@@ -72,7 +72,7 @@ hero_logo_image:
   - alt: "Bitcoin"
     image: "/images/bitcoin.png"
     
-  - alt: "CMDC"
+  - alt: "MONEY"
     image: "/images/money.svg"
     
   - alt: "Ethereum"
