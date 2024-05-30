@@ -29,7 +29,7 @@ menu_settings:
 
 # Call to action button
 cta_button:
-  enable: true
+  enable: false
   cta_button_link: 'https://app.internationalmeme.fund'
   cta_button_text: LAUNCH APP
 
