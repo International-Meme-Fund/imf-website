@@ -16,6 +16,8 @@ menu_settings:
       url: "/about/"
     - title: "Collateral"
       url: "/collateral/"
+    - title: "Docs"
+      exturl: "https://docs-amber-zeta.vercel.app/docs/overview"
     - title: "Farcaster"
       exturl: "https://warpcast.com/~/channel/imf"
     - title: "Charts"
